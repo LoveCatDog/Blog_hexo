@@ -2,7 +2,9 @@
 layout: _posts
 title: Vuex是什么？
 date: 2020-01-19 16:17:18
-tags: vue, vuex
+tags: 
+ - Vue
+ - Vuex
 type: tags #（tags,link,categories这三个页面需要配置）
 comments: true # (是否需要显示评论，默认true)
 description: ' Vuex是什么,让我们慢慢细读...'

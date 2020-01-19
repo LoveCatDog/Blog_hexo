@@ -1,7 +1,7 @@
 ---
 title: vue中props传值失败
 date: 2020-01-06 16:55:59
-tags: vue
+tags: Vue
 type: tags #（tags,link,categories这三个页面需要配置）
 comments: true # (是否需要显示评论，默认true)
 description: 'vue中props传值失败,输出undefined'

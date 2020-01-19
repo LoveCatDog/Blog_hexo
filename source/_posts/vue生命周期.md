@@ -2,7 +2,7 @@
 layout: posts
 title: vue生命周期
 date: 2020-01-06 10:38:30
-tags: vue
+tags: Vue
 type: tags #（tags,link,categories这三个页面需要配置）
 comments: true # (是否需要显示评论，默认true)
 description: 'vue生命周期分析'

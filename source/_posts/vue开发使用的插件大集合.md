@@ -2,7 +2,7 @@
 layout: _posts
 title: vue开发使用的插件大集合
 date: 2020-01-16 21:52:21
-tags: vue
+tags: Vue
 type: tags #（tags,link,categories这三个页面需要配置）
 comments: true # (是否需要显示评论，默认true)
 description: 'vue中props传值失败,输出undefined'
