@@ -2,7 +2,9 @@
 layout: _posts
 title: vue开发使用的插件大集合
 date: 2020-01-16 21:52:21
-tags: Vue
+tags: 
+ - Vue
+ - 插件
 type: tags #（tags,link,categories这三个页面需要配置）
 comments: true # (是否需要显示评论，默认true)
 description: 'vue中props传值失败,输出undefined'
@@ -40,3 +42,7 @@ cover: 'https://th.wallhaven.cc/small/4y/4yv6k7.jpg'  #缩略图
  案例：http://www.macrozheng.com/admin/#/login
  账号：admin
  密码：macro123
+
+ ### 开源接口
+ > 地址：http://jsonplaceholder.typicode.com/
+ 前端有了开源接口 再也不用写啥静态json数据啦，现成的开源接口提高了开发效率哦。
