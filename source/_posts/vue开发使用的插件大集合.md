@@ -46,3 +46,7 @@ cover: 'https://th.wallhaven.cc/small/4y/4yv6k7.jpg'  #缩略图
  ### 开源接口
  > 地址：http://jsonplaceholder.typicode.com/
  前端有了开源接口 再也不用写啥静态json数据啦，现成的开源接口提高了开发效率哦。
+
+### 离线文档
+1. window下的：zeal离线文档
+2. Mac下的:dash离线文档
