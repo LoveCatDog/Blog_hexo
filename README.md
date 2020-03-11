@@ -6,6 +6,8 @@ npm install -g hexo
  hexo g 
 ## 启动服务
  hexo s
+## 上传
+ hexo d
 
 1. hexo-server : hexo的服务运行环境。
 2. hexo-browsersync : 页面自动刷新插件。
