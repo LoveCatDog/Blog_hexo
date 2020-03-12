@@ -58,3 +58,23 @@ cover: 'https://th.wallhaven.cc/small/4y/4yv6k7.jpg'  #缩略图
 ### 离线文档
 1. window下的：zeal离线文档
 2. Mac下的:dash离线文档
+
+### icon 图标库
+
+1. 【阿里巴巴矢量图】https://www.iconfont.cn/
+
+2. 【寻图标】https://icon.52112.com/
+
+### postwoman 
+
+> 地址：https://reqres.cn/
+简介：Postwoman • 免费、快速、漂亮的API测试请求开发工具
+
+
+### 高清图库
+> 地址：https://wallhaven.cc/
+简介：还担心没高清壁纸吗？
+
+### 聚合图床
+> 地址：https://www.superbed.cn/
+简介：免费无线图片上传
