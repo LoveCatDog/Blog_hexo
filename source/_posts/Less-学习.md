@@ -3,7 +3,6 @@ title: Less 学习
 date: 2020-03-11 14:21:35
 tags: 
  - css
- - javascript
  - Less
 type: tags #（tags,link,categories这三个页面需要配置）
 comments: true # (是否需要显示评论，默认true)
@@ -235,15 +234,7 @@ npm install -g less
     .column-4 {
     width: 100%;
     }
-    //扩展：如果是有多种颜色需要遍历呢？
-    @colorList: [rgb(109, 179, 226), rgb(250, 125, 119), rgb(72, 197, 174),
-    rgb(250, 192, 84) ];
-    .more_color(@colorList);
-    .more_color(@n,@i:1) when (@i =< @n) {
-    .color_@{i} {
-        color: ;
-    }
-    }
+    
     ```
 
 * 10) 方法中的important ：相当于每个属性都设置一个important 不循序覆盖
@@ -254,6 +245,33 @@ npm install -g less
     }
     ```
 
+* 11) 多种颜色需要遍历
+    ```html
+    //定义一个背景颜色的集合
+    @backgroundColor: rgb(109, 179, 226), rgb(250, 125, 119), rgb(72, 197, 174),
+    rgb(250, 192, 84);
+
+    //获取背景颜色的长度
+    @backgroundLen: length(@backgroundColor);
+    .loop(@index) when (@index < = @backgroundLen) {
+    .backgroundcard(@index, extract(@backgroundColor, @index));
+    .loop (@index+1);
+    }
+    .loop(1);
+
+    .backgroundcard(@className,@colorValue) {
+    //less：A
+    .bottom_@{className} {
+        background: @colorValue;
+        transition: all 0.3s;
+    }
+    //less：B
+    .order_box_item:hover .bottom_@{className} {
+        height: 100%;
+        z-index: -1;
+    }
+    }
+    ```
 #### 5、less注释：语法类似于js
 > // : 单行注释 || /**/ : 多行注释
 

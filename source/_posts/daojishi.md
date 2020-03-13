@@ -1,6 +1,8 @@
 ---
 layout: _post
 title: '19年倒计时'
+tags:
+ - 生活
 date: 2019-12-28 18:16:22
 type: tags #（tags,link,categories这三个页面需要配置）
 comments: true # (是否需要显示评论，默认true)

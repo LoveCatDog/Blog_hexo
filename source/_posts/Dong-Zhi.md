@@ -1,6 +1,8 @@
 ---
 title: '冬至'
 date: 2019-12-22 10:44:46
+tags:
+ - 生活
 type: tags #（tags,link,categories这三个页面需要配置）
 comments: true # (是否需要显示评论，默认true)
 description: '冬至大如年，人间小团圆'
