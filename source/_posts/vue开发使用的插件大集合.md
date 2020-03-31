@@ -48,6 +48,10 @@ cover: 'https://th.wallhaven.cc/small/4y/4yv6k7.jpg'  #缩略图
  ### 多种前后端分离的系统 (同上)
 > 地址：https://github.com/macrozheng/
 
+
+### 基础的vue框架模板
+> 地址：https://panjiachen.github.io/vue-element-admin/#/dashboard
+
 ### yshop意象商城系统
 > 地址：https://github.com/guchengwuyue/yshopmall
 
