@@ -20,3 +20,5 @@ npm install -g hexo
 2. git add .
 3. git commit -m '添加备注'
 4. git push
+
+## 参考：https://github.com/Molunerfinn/hexo-theme-melody

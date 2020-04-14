@@ -214,6 +214,8 @@ valine:
   bg: /img/comment_bg.png # valine background
   count: true # top_img顯示評論數
 
+leancloud: http://pirogue.org/js/av-min.js
+
 #####     Footer Settings    ####
 # ------------------------------------
 since: 2019 #是一个来展示你站点起始时间的选项。它位于页面的最底部
