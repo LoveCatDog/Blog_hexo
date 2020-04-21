@@ -214,7 +214,7 @@ valine:
   bg: /img/comment_bg.png # valine background
   count: true # top_img顯示評論數
 
-leancloud: http://pirogue.org/js/av-min.js
+# leancloud: http://pirogue.org/js/av-min.js
 
 #####     Footer Settings    ####
 # ------------------------------------
